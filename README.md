@@ -19,7 +19,6 @@ https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard/blob/main/Cal
 
 
 Tools & techniques used:
-
 Microsoft Excel
 Pivot tables
 Slicers (interactive filtering by rep, city, time period)
