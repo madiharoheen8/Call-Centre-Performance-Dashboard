@@ -12,10 +12,10 @@ Call duration distribution (under 10 mins → 2+ hours)
 Customer satisfaction ratings (1–5 scale)
 City and gender-based call segmentation
 
-DASHBOARD PREVIEW
+# DASHBOARD PREVIEW
 https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard/blob/main/Screenshot%202026-05-29%20132916.png
 
-EXCEL FILE
+# EXCEL FILE
 https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard/blob/main/Call%20Centre%20Performance%20Dashboard.xlsx
 
 
