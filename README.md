@@ -15,7 +15,8 @@ DASHBOARD PREVIEW
 https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard/blob/main/Screenshot%202026-05-29%20132916.png
 
 EXCEL FILE
-https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard/blob/main/Call%20Centre%20Performance%20Dashboard.xlsx
+https://github.com/madiharoheen8/Call-Centre-Performance-Dashboard
+
 
 Tools & techniques used:
 
