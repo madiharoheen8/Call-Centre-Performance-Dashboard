@@ -2,6 +2,7 @@
 Excel dashboard analyzing 1,000 call centre records across 5 reps, 3 cities, and 12 months. Built with pivot tables, slicers, and charts to track call volume, revenue, satisfaction ratings, and rep performance. Designed as a portfolio project showcasing data analysis and visualization skills in Excel.
 Overview
 An interactive Excel dashboard built to analyze and visualize call centre operations data. The dataset contains 1,000 call records spanning a full calendar year (2023), covering 5 representatives across 3 Ohio cities — Cincinnati, Cleveland, and Columbus.
+
 What the dashboard tracks:
 
 Total calls, revenue, and average satisfaction rating
